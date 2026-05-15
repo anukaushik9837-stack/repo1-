@@ -40,5 +40,5 @@ function sayYes() {
 }
 
 function goToSecret() {
-    window.location.href = "https://github.com/anukaushik9837-stack/repo11";
+    window.location.href = "https://anukaushik9837-stack.github.io/repo11/";
 }

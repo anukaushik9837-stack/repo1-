@@ -14,7 +14,7 @@ setInterval(createHeart, 500);
 function nextPage() {
     document.body.innerHTML = `
         <div class="container">
-            <h1>Will you be my Valentine? 💌</h1>
+            <h1>Will You Allow Me to Celebrate You BIRTHDAY for this and everylifetime?</h1>
             <button onclick="sayYes()">Yes 🥹💖</button>
             <button id="noBtn" onmouseover="moveButton()">No😶‍🌫️</button>
         </div>
@@ -32,7 +32,7 @@ function sayYes() {
     document.body.innerHTML = `
         <div class="container">
             <h1>YAYYY.. You said YES 🥳💖</h1>
-            <p>You just made me the happiest person alive🫶💖</p>
+            <p>Hehehe.... mja aagya🫶💖</p>
             <p>I made something special for you…</p>
             <button onclick="goToSecret()">Click here for your surprise🫀💌</button>
         </div>

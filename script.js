@@ -32,7 +32,7 @@ function sayYes() {
     document.body.innerHTML = `
         <div class="container">
             <h1>Huhh.... You Got no other option except saying YES 🥳💖</h1>
-            <p>Hehehe.... Thank you for existing LOVE🫶💖</p>
+            <p>Lob Juu.... Thank you for existing LOVE🫶💖</p>
             <p>I tried making something special for you… Hope you will Like it.</p>
             <button onclick="goToSecret()">Click here for your surprise🫀💌</button>
         </div>
